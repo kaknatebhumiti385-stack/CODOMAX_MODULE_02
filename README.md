@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Codomax Module 02 – Task 2
 
 ## Project Title
@@ -42,3 +43,7 @@ Run the following command:
 Successfully implemented a Python-based AWS IAM security policy simulator and demonstrated the principle of least privilege.
 
 **Note:** This is a local simulation, not an actual AWS IAM deployment.
+=======
+# CODOMAX_MODULE_02
+CODOMAX
+>>>>>>> 9bca1e02aa62093f4dc1a870bef0a69e97d6d6e4
